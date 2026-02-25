@@ -1,7 +1,4 @@
-```markdown
 [繁體中文](README.md)
-```
-
 <div align="center">
   <h1>🚀 NTXEmbedded Software Development Hub</h1>
   <p><b>Explore boundlessly, develop infinitely. Welcome to the core software world of NTXEmbedded!</b></p>
