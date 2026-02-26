@@ -63,7 +63,7 @@
     </li>
     <li>
       <details open>
-        <summary>🛠️ <b>開發工具與軟體</b></summary>
+        <summary>🛠️ <a href="https://github.com/NTX-Development-Tools">開發工具與軟體</a></summary>
         <ul>
           <li>
             <details open>
