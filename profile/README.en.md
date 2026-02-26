@@ -23,7 +23,7 @@ This is the central resource hub for our **Software Development** and **Project 
   <ul>
     <li>
       <details open>
-        <summary>⚙️ <b>Core Software</b></summary>
+        <summary>⚙️ <a href="https://github.com/NTX-Core-Software">Core Software</a></summary><summary>
         <ul>
           <li>
             <details open>
