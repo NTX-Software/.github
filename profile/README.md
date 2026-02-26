@@ -23,7 +23,7 @@
   <ul>
     <li>
       <details open>
-        <summary>⚙️ <b>核心軟體</b></summary>
+        <summary>⚙️ <a href="https://github.com/NTX-Core-Software">核心軟體</a></summary>
         <ul>
           <li>
             <details open>
