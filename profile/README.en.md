@@ -57,7 +57,7 @@ This is the central resource hub for our **Software Development** and **Project 
               </ul>
             </details>
           </li>
-          <li>📦 <a href="https://github.com/NTX-Software/NTXEmbedded">NTXEmbedded</a></li>
+          <li>📦 <a href="https://github.com/NTXEmbedded">NTXEmbedded</a></li>
         </ul>
       </details>
     </li>
