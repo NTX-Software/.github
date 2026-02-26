@@ -63,7 +63,7 @@ This is the central resource hub for our **Software Development** and **Project 
     </li>
     <li>
       <details open>
-        <summary>🛠️ <b>Development Tools and Software</b></summary>
+        <summary>🛠️ <a href="https://github.com/NTX-Development-Tools">Development Tools and Software</a></summary>
         <ul>
           <li>
             <details open>
