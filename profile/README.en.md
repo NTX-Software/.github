@@ -90,7 +90,7 @@ This is the central resource hub for our **Software Development** and **Project 
       <details open>
         <summary>📖 <a href="https://github.com/NTX-Document">NTX Documentation</a></summary>
         <ul>
-          <li>📄 <a href="https://github.com/NTX-Software/Document">Document</a></li>
+          <li>📄 <a href="https://github.com/NTX-Document/Document">Document</a></li>
         </ul>
       </details>
     </li>
