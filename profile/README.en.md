@@ -88,7 +88,7 @@ This is the central resource hub for our **Software Development** and **Project 
     </li>
     <li>
       <details open>
-        <summary>📖 <b>NTX Documentation</b></summary>
+        <summary>📖 <a href="https://github.com/NTX-Document">NTX Documentation</a></summary>
         <ul>
           <li>📄 <a href="https://github.com/NTX-Software/Document">Document</a></li>
         </ul>
