@@ -90,7 +90,7 @@
       <details open>
         <summary>📖 <a href="https://github.com/NTX-Document">NTX文件</a></summary>
         <ul>
-          <li>📄 <a href="https://github.com/NTX-Software/Document">Document</a></li>
+          <li>📄 <a href="https://github.com/NTX-Document/Document">Document</a></li>
         </ul>
       </details>
     </li>
