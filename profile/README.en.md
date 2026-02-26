@@ -27,7 +27,7 @@ This is the central resource hub for our **Software Development** and **Project 
         <ul>
           <li>
             <details open>
-              <summary>📦 <a href="https://github.com/NTX-Software/embedded-linux">embedded-linux</a></summary>
+              <summary>📦 <a href="https://github.com/NTX-embedded-linux">embedded-linux</a></summary>
               <ul>
                 <li>
                   <details open>
