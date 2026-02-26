@@ -31,7 +31,7 @@
               <ul>
                 <li>
                   <details open>
-                    <summary>📦 <a href="https://github.com/NTX-Software/Yocto-linux">Yocto-linux</a></summary>
+                    <summary>📦 <a href="https://github.com/NTX-linux-yocto">linux-yocto</a></summary>
                     <ul>
                       <li>📝 <a href="https://github.com/Yocto-linux/yocto-scarthgap_renesas-4.0.0">yocto-scarthgap_renesas-4.0.0</a></li>
                       <li>
