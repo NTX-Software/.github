@@ -67,7 +67,7 @@ This is the central resource hub for our **Software Development** and **Project 
         <ul>
           <li>
             <details open>
-              <summary>📦 <b>Factory-Tools</b></summary>
+              <summary>📦 <a href="https://github.com/NTX-Factory-Tools">Factory-Tools</a></summary>
               <ul>
                 <li>📦 <a href="https://github.com/NTX-Factory-Tools/Firmware-Upgrade">Firmware-Upgrade</a></li>
                 <li>📦 <a href="https://github.com/NTX-Factory-Tools/Library_3rdParty">Library_3rdParty</a></li>
